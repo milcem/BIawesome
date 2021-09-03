@@ -1,6 +1,6 @@
-#Python task answers and details
+#         Python task answers and details
 
-1. Basic statistics of data
+Basic statistics of data
 
           Preparation_duration                 Price           Consumption_duration               
         count            158.000000         158.000000            158.000000        
