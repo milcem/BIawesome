@@ -64,4 +64,4 @@ We observe that by increasing the number of principal components from 1 to 4, th
 
 ![Figure_1 - lasso](https://user-images.githubusercontent.com/26208356/132001825-5ff32a53-6dd2-44d5-8051-08d83e96f46f.png)
 
-We observe that as the regularization parameter $\alpha$ increases, the norm of the regression coefficients become smaller and smaller. This means more regression coefficients are forced to zero, which intend increases bias error (over simplification). The best value to balance bias-variance tradeoff is when $\alpha$ is kept low, say $\alpha = 0.1$ or less.
+We observe that as the regularization parameter $\alpha$ increases, the norm of the regression coefficients become smaller and smaller. This means more regression coefficients are forced to zero, which intend increases bias error (over simplification). The best value to balance bias-variance tradeoff is when alpha is kept low - alpha =< 0.1 
